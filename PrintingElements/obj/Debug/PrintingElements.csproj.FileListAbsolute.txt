@@ -1,0 +1,6 @@
+C:\############\Desktop\Home Work c#\PrintingElements\bin\Debug\PrintingElements.pdb
+C:\############\Desktop\Home Work c#\PrintingElements\obj\Debug\PrintingElements.csprojAssemblyReference.cache
+C:\############\Desktop\Home Work c#\PrintingElements\obj\Debug\PrintingElements.csproj.CoreCompileInputs.cache
+C:\############\Desktop\Home Work c#\PrintingElements\obj\Debug\PrintingElements.pdb
+C:\############\Desktop\Home Work c#\PrintingElements\bin\Debug\PrintingElements.exe
+C:\############\Desktop\Home Work c#\PrintingElements\obj\Debug\PrintingElements.exe
